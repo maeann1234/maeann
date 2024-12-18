@@ -1,6 +1,6 @@
 {
-    "name": "random cat trivia",
-    "short_name": "cat trivia",
+    "name": "Age prediction",
+    "short_name": "Age prediction",
     "icons": [
       {
         "src": "kani.png",
